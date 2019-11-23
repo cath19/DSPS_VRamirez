@@ -19,3 +19,9 @@ also been worthwhile to explain what caused the spike in the mortality rate arou
 Quality: Overall, the graph does a great job at representing very important data. It does not mislead or distact in any way.
 
 ![Plot](https://raw.githubusercontent.com/vicaleram/DSPS_VRamirez/master/HW8/Homework8dsps.png)
+
+# FBB 
+
+good
+
+100%
